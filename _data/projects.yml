@@ -1,29 +1,18 @@
 # projects section data
-- name: 'Saplatform'
-  i18n: 'saplatform'
-  repo: 'saplatform'
-  img: 'static/img/landing/saplatform.png'
-  desc: 'Saplatform is a automated service for operations, it has asset management, project release, database access function, it can control mass servers.'
+- name: 'Pulsewave monitoring system for sub-health'
+  i18n: 'pulsewave'
+  repo: 
+  img: 'static/img/landing/pulsewave.png'
+  desc: 'It is a software for preventing subhealth disease, funded by the National College Students Innovative Training Program.'
 
-- name: 'Jalpc'
-  i18n: 'jalpc'
-  repo: 'jalpc_jekyll_theme'
-  img: 'static/img/landing/jekyll.png'
-  desc: "Jalpc is a simple, beautiful and swift theme for Jekyll. It has comprehensive function, it can be easily used and edited. It's adapted for many kinds devices."
+- name: 'Digital long-scroll painting of the palace museum in Duanmen'
+  i18n: 'duamen'
+  repo: 
+  img: 'static/img/landing/duanmen.jpg'
+  desc: "It is a project cooperating with the Palace Museum in Beijing, using virtual reality and natural interaction techniques to exhibit Chinese famous ancient paintings"
 
-- name: 'Jalpc-A'
-  i18n: 'angularjs'
-  repo: 'Jalpc-A'
-  img: 'static/img/landing/angularjs.png'
-  desc: "It is a web font application written by Angularjs and deployed by Jekyll on github (gh-pages), the backend platform is Leancloud, you can use Parse as well."
-
-- name: 'Rsser'
-  i18n: 'rsser'
-  repo: 'Rsser'
-  img: 'static/img/landing/rsser.png'
-  desc: Rsser is an Ionic application, with this application we can read news and articles freely, you can add rss address from the given list and add it manually.
-
-- name: 'FamilyCODE Wchat'
-  i18n: 'familycode'
-  img: 'static/img/landing/familycode.png'
-  desc: This is a shopping mall in wechat, it promotes gene detection. Since time is precious, I write this website with Django, jQuery, weui. This is WuxiNextcode's major product. You can scan project's picture by wechat.
+- name: 'MingHuaJi website of the Palace Museum'
+  i18n: 'minghuaji'
+  repo: 
+  img: 'static/img/landing/minghuaji.png'
+  desc: "It is a website for exhibiting several famous HD digital paintings of the Palace Museum, the link is http://minghuaji.dpm.org.cn/ "

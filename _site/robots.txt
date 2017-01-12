@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: <http://lukeandshuo.github.io/sitemap.xml>

@@ -1,56 +1,84 @@
 # careers section data
 - name:
-    detail: Nextcode
-    i18n: nextcode
+    detail: Intel Corporation
+    i18n: intel
   desc:
-    detail: Now I am in Nextcode and develop website with Python code for genetic analysis.
-    i18n: nextcode_des
+    detail: As an intern of computer vision in Intel Research Lab, research on the area of Face Verification based on Deep Learning.
+    i18n: intel_des
   date:
-    detail: Apr. 2016
-    i18n: nextcode_date
+    detail: Apr.2015 - Jun.2015
+    i18n: intel_date
   job:
-    detail: Python Developer
-    i18n: nextcode_job
-  icon: fa-plus-square
+    detail: Intern of Computer Vision
+    i18n: intel_job
+  icon: fa-briefcase
 
 - name:
-    detail: Netease Game
-    i18n: netease
+    detail: Beijing University of Technology
+    i18n: bjut
   desc:
-    detail: In Netease game, I learned game service system and use Python code for ops.
-    i18n: netease_des
+    detail: As an undergraduate student, my major is Computer Science.
+    i18n: bjut_des
   date:
-    detail: Jun. 2015
-    i18n: nextcode_date
+    detail: Sep.2011 - Jul.2015
+    i18n: bjut_date
   job:
-    detail: Dev Ops
-    i18n: netease_job
-  icon: fa-gamepad
-
-- name:
-    detail: Ucloud
-    i18n: ucloud
-  desc:
-    detail: In ucloud, I started to deal with servers and Linux system and use shell scripts to manage massive server.
-    i18n: ucloud_des
-  date:
-    detail: Sep. 2013
-    i18n: ucloud_date
-  job:
-    detail: Dev Ops
-    i18n: ucloud_job
-  icon: fa-cloud
-
-- name:
-    detail: Graduation
-    i18n: college
-  desc:
-    detail: At July 2013,I graduated from college and started my IT technology tour.
-    i18n: college_des
-  date:
-    detail: Jul. 2013
-    i18n: college_date
-  job:
-    detail: Student
-    i18n: college_job
+    detail: Undergraduate Student
+    i18n: bjut_job
   icon: fa-book
+
+- name:
+    detail: Hydata Inc.
+    i18n: hydata
+  desc:
+    detail: In Hydata, I joined in a apartment for developing a data visiualizing platform .
+    i18n: hydata_des
+  date:
+    detail: Jul.2015 - Oct.2015
+    i18n: hydata_date
+  job:
+    detail: Software Engineer
+    i18n: hydata_job
+  icon: fa-briefcase
+
+- name:
+    detail: Beijing University of Technology
+    i18n: bjut
+  desc:
+    detail: I backed to my university for the job of research assistant, researched on traffic sign recognition.
+    i18n: bjut_des
+  date:
+    detail: Oct.2015 - Jul.2016
+    i18n: bjut_date
+  job:
+    detail: Research Assistant
+    i18n: bjut_job
+  icon: fa-university
+
+- name:
+    detail: University of British Columbia in Okanagan
+    i18n: ubco
+  desc:
+    detail: I started my graduate student life in UBCO, my major is Eletronic Engineer.
+    i18n: ubco_des
+  date:
+    detail: Sep.2016
+    i18n: ubco_date
+  job:
+    detail: Graduate Student
+    i18n: ubco_job
+  icon: fa-book
+
+- name:
+    detail: Pure Technologies Ltd
+    i18n: pt
+  desc:
+    detail: I started an internship at PureTech on image processing.
+    i18n: pt_des
+  date:
+    detail: Dec.2016
+    i18n: pt_date
+  job:
+    detail: Intern
+    i18n: pt_job
+  icon: fa-briefcase
