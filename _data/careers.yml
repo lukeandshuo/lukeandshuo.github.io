@@ -1,23 +1,9 @@
 # careers section data
 - name:
-    detail: Intel Corporation
-    i18n: intel
-  desc:
-    detail: As an intern of computer vision in Intel Research Lab, research on the area of Face Verification based on Deep Learning.
-    i18n: intel_des
-  date:
-    detail: Apr.2015 - Jun.2015
-    i18n: intel_date
-  job:
-    detail: Intern of Computer Vision
-    i18n: intel_job
-  icon: fa-briefcase
-
-- name:
     detail: Beijing University of Technology
     i18n: bjut
   desc:
-    detail: As an undergraduate student, my major is Computer Science.
+    detail: As an undergraduate student, major is Computer Science.
     i18n: bjut_des
   date:
     detail: Sep.2011 - Jul.2015
@@ -28,10 +14,24 @@
   icon: fa-book
 
 - name:
+    detail: Intel Corporation
+    i18n: intel
+  desc:
+    detail: As an intern of computer vision at Intel Research Lab, conducted research on the area of Face Verification based on Deep Learning.
+    i18n: intel_des
+  date:
+    detail: Apr.2015 - Jun.2015
+    i18n: intel_date
+  job:
+    detail: Intern of Computer Vision
+    i18n: intel_job
+  icon: fa-briefcase
+
+- name:
     detail: Hydata Inc.
     i18n: hydata
   desc:
-    detail: In Hydata, I joined in a apartment for developing a data visiualizing platform .
+    detail: In Hydata, I joined in an apartment on developing a data visiualizing platform .
     i18n: hydata_des
   date:
     detail: Jul.2015 - Oct.2015
@@ -45,7 +45,7 @@
     detail: Beijing University of Technology
     i18n: bjut
   desc:
-    detail: I backed to my university for the job of research assistant, researched on traffic sign recognition.
+    detail: I backed to my university for the job of research assistant, researched on Traffic Sign Recognition.
     i18n: bjut_des
   date:
     detail: Oct.2015 - Jul.2016
@@ -59,10 +59,10 @@
     detail: University of British Columbia in Okanagan
     i18n: ubco
   desc:
-    detail: I started my graduate student life in UBCO, my major is Eletronic Engineer.
+    detail: I started my graduate student life at UBCO, research area on Deep Learning.
     i18n: ubco_des
   date:
-    detail: Sep.2016
+    detail: Sep.2016 - Now
     i18n: ubco_date
   job:
     detail: Graduate Student
@@ -76,7 +76,7 @@
     detail: I started an internship at PureTech on image processing.
     i18n: pt_des
   date:
-    detail: Dec.2016
+    detail: Dec.2016 - Now
     i18n: pt_date
   job:
     detail: Intern

@@ -16,3 +16,10 @@
   repo: 
   img: 'static/img/landing/minghuaji.png'
   desc: "It is a website for exhibiting several famous HD digital paintings of the Palace Museum, the link is http://minghuaji.dpm.org.cn/ "
+
+- name: 'Deep Learning Projects'
+  i18n: 'deeplearning'
+  repo: 
+  img: 'static/img/landing/deeplearning.jpg'
+  desc: "It is a collection of some of my work on Deep Learning "
+  url: 'http://13.85.27.217:5000'
